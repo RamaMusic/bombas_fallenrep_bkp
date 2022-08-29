@@ -1,0 +1,6 @@
+VertexlitGeneric"
+{
+	"$basetexture" "models/starwars/weapons/hoth_bomb"
+	"$nocull" 1
+}
+V
