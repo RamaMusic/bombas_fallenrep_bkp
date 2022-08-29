@@ -1,0 +1,12 @@
+ENT.Type = "anim"
+ENT.Base = "base_gmodentity"
+ 
+ENT.PrintName= "Mega Bomba"
+ENT.Author= "Fallen Republic"
+ENT.Contact= ""
+ENT.Purpose= ""
+ENT.Instructions= "Presiona la E con un alicate para intentar desactivar la bomba."
+ENT.Category= "Bombas"
+ENT.Spawnable = true
+ENT.AdminSpawnable = true
+ENT.BaseHealth = 400
